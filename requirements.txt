@@ -1,0 +1,12 @@
+certifi==2020.6.20
+chardet==3.0.4
+CherryTree==0.38.8
+colorama==0.4.3
+dbus-python==1.2.16
+idna==2.10
+numpy==1.16.5
+pycairo==1.16.2
+pyenchant==2.0.0
+PyGObject==3.36.0
+requests==2.24.0
+urllib3==1.25.10
